@@ -1,14 +1,11 @@
-# SMS Fix Magisk Module for Samsung Galaxy A03
+# SMS Fix Magisk Module for Samsung Galaxy A53 5G
 
-A Magisk module that fixes incoming SMS on Galaxy A03 by rolling back the RIL libraries to those from firmware `A035FXXU4CWF3`. This is for the global model (SM-A035F), baseband version `A035FXXU4CWI1` and later.
+A Magisk module that fixes incoming SMS on Galaxy A53 5G by rolling back the RIL libraries to those from firmware `A536BOXM7CWF6` (start of July 2023).
 
-**⚠️ Do not install this module if you don't have problems receiving texts, or if you are on firmware `A035FXXU4CWF3` or earlier. See the note below if you don't have the global model.**
-
-## Note for Latin American (SM-A035M) and European (SM-A035G) models
-This module may be unnecessary for your model and instead prevent the RIL from working at all. You can still try it if you have issues with SMS, and report back to [our Telegram group](https://t.me/a035f) if it works.
+**⚠️ Do not install this module if you don't have problems receiving texts, or if you are on firmware `A536BOXM7CWF6` or earlier.**
 
 ## Installation
-Download the [latest version](https://github.com/IverCoder/a03nnxx-ril-rollback/releases/latest) and flash it on the Magisk app or a custom recovery.
+Download the [latest version](https://github.com/mytja/a536x-ril-rollback/releases/latest) and flash it on the Magisk app or a custom recovery.
 
-## Issues
-Please report any issue you experienced by opening an issue or telling us on [our Telegram group](https://t.me/a035f).
+## Acknowledgments
+All thanks go to [IverCoder](https://github.com/IverCoder) on whose [module](https://github.com/IverCoder/a03nnxx-ril-rollback) this one is built. His [XDA post](https://xdaforums.com/t/solved-gsi-related-can-not-receive-sms.4636173/post-89192751) was greatly appreciated.
