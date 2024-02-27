@@ -1,0 +1,10 @@
+###
+# begin vendor/build.prop
+###
+
+vendor.sec.rild.libpath=/vendor/lib64/libsec-ril.so
+
+###
+# end vendor/build.prop
+###
+
