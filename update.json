@@ -1,6 +1,6 @@
 {
-    "version": "v1.2",
-    "versionCode": 3,
-    "zipUrl": "https://github.com/mytja/a536x-ril-rollback/releases/download/v1.2/GalaxyA53-SMSFix-MagiskModule-v1.2.zip",
+    "version": "v1.3",
+    "versionCode": 10300,
+    "zipUrl": "https://github.com/mytja/a536x-ril-rollback/releases/download/v1.3/GalaxyA53-SMSFix-MagiskModule-v1.3.zip",
     "changelog": "https://raw.githubusercontent.com/mytja/a536x-ril-rollback/main/CHANGELOG.md"
 }

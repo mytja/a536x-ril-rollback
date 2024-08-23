@@ -1,7 +1,7 @@
 id=a536x-ril-rollback
 name=SMS Fix Magisk Module for Samsung Galaxy A53 5G
-version=v1.2
-versionCode=3
+version=v1.3
+versionCode=10300
 author=mytja
 description=Fixes SMS on Galaxy A53 5G by rolling back the RIL libraries.
 updateJson=https://raw.githubusercontent.com/mytja/a536x-ril-rollback/main/update.json
